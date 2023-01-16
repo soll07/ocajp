@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author dasol
+ *
+ */
+module JavaExample {
+}
